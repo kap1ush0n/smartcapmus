@@ -102,3 +102,32 @@ left: 80rpx;
   font-size: 35rpx;
   font-weight: 900;
 }
+
+
+.gao{
+  width: 90%;
+  margin: auto;
+  height: 80rpx;
+  display: flex;
+  justify-content: space-between;
+  }
+  .ones{
+  font-size: 30rpx;
+  margin-top: 20rpx;
+  display: flex;
+  
+  }
+  .ones>view:first-child{
+  font-weight: 900;
+  font-size: 40rpx;
+  line-height: 40rpx;
+  margin-right:25rpx ;
+  }
+  .ones>view:last-child{
+  font-size: 32rpx;
+  margin-left: 30rpx;
+  font-weight: 900;
+  }
+  .twos{
+  margin-right: 25rpx;
+  }

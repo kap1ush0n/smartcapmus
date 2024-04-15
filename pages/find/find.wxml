@@ -21,3 +21,13 @@
     <view>随时随地查看</view>
   </view>
 </view>
+
+<!-- 通知公告 -->
+<view class="gao">
+    <view class="ones">
+      <view>通知公告</view>
+        <view class="twos">学校新闻</view>
+        <view>综合信息</view>
+        <view>学术动态</view>
+  </view>
+</view>
