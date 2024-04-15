@@ -17,3 +17,27 @@
         </view>
     </view>
 </view>
+
+<!-- 导航栏 -->
+<view class="barlist">
+    <view>
+        <view class="yel"><image src="../../imgs/school.svg"></image></view>
+        <view>学校概况</view>
+    </view>
+    <view>
+        <view class="pul"><image src="../../imgs/score.svg"></image></view>
+        <view>成绩查询</view>
+    </view>
+    <view>
+        <view class="reed"><image src="../../imgs/audio.svg"></image></view>
+        <view>缴费入口</view>
+    </view>
+    <view>
+        <view class="gre"><image src="../../imgs/danger.svg"></image></view>
+        <view>学院预警</view>
+    </view>
+    <view>
+        <view class="blu"><image src="../../imgs/all.svg"></image></view>
+        <view>全部</view>
+    </view>
+</view>
