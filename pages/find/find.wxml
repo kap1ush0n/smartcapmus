@@ -1,6 +1,4 @@
-<!--pages/found/found.wxml-->
-<!-- <text>pages/found/found.wxml</text> -->
-
+<!-- 搜索栏 -->
 <view class="head">
   <view class="head-content">
     <view>发现</view>
@@ -14,3 +12,12 @@
   </view>
 </view>
 
+<!-- 发现 -->
+<view class="topimg">
+  <image src="../../imgs/findationimgs/top.png" />
+  <view class="toptitie">
+    <view>发现新鲜事</view>
+    <view>校内概况 办事指南</view>
+    <view>随时随地查看</view>
+  </view>
+</view>
