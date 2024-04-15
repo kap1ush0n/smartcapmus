@@ -68,3 +68,14 @@
   <view>关于系统运行的时间</view>
 </view>
 
+<!-- 办事指南新体验 -->
+<view class="thingfeel">
+  <view>
+    <view>办事指南新体验</view>
+    <view>新增办事指南和消息栏目，办事更快捷</view>
+    <view>去了解</view>
+  </view>
+  <view>
+    <image src="/imgs/newfeel.png" mode=""/>
+  </view>
+</view>
