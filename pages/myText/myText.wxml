@@ -59,3 +59,12 @@
         </view>
     </view>
 </view>
+
+<!-- 系统时间 -->
+<view class="runtime">
+  <view>
+    <image src="/imgs/audio.svg" mode=""/>
+  </view>
+  <view>关于系统运行的时间</view>
+</view>
+

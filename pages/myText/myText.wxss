@@ -135,3 +135,30 @@
   font-size: 36rpx;
   margin-bottom: 20rpx;
 }
+
+.runtime{
+  width: 90%;
+  margin: auto;
+  display: flex;
+  margin-top: 20rpx;
+}
+.runtime>view:first-child{
+  margin-right: 20rpx;
+  width: 50rpx;
+  height: 50rpx;
+  background-color: #01ad7c;
+  border-radius: 50%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.runtime>view:first-child>image{
+  width: 40rpx;
+  height: 30rpx;
+
+}
+.runtime>view:last-child{
+  font-size: 28rpx;
+  line-height: 50rpx; 
+  /* 行高 */
+}
