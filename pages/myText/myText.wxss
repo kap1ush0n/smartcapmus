@@ -81,3 +81,16 @@
 .barlist .blu{
   background-color: #1e9dff;
 }
+
+.tinglist{
+  width: 90%;
+  margin: auto;
+  display: flex;
+  justify-content: space-around;
+  margin-top: 20rpx;
+}
+.tinglist>view{
+  width: 49%;
+  height: 200rpx;
+  border-radius: 25rpx;
+}
