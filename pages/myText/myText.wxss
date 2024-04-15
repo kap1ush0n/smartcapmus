@@ -94,3 +94,44 @@
   height: 200rpx;
   border-radius: 25rpx;
 }
+.tinglist>view:first-child{
+  background: linear-gradient(to right,#feb27a,#ff8260);
+}
+.tinglist>view:last-child{
+  background:linear-gradient(to right,#94f8da,#6ad2e3);
+}
+.tinglist>view:first-child>image{
+  width: 210rpx;
+  height: 200rpx;
+  border-radius: 20rpx;
+}
+.tinglist>view:last-child>image{
+  width: 210rpx;
+  height: 200rpx;
+  margin-left: 125rpx;
+  border-radius: 25rpx;
+}
+.tinglist>view .text{
+  font-size: 30rpx;
+  position: absolute;
+  top:42%;
+  right: 53%;
+  color: white;
+  line-height: 35rpx; 
+}
+.tinglist>view .text>view:first-child{
+  font-size: 36rpx;
+  margin-bottom: 20rpx;
+}
+.tinglist>view .foning{
+  font-size: 30rpx;
+  position: absolute;
+  top:42%;
+  right: 26%;
+  color: white;
+  line-height: 35rpx; 
+}
+.tinglist>view .foning>view:first-child{
+  font-size: 36rpx;
+  margin-bottom: 20rpx;
+}
