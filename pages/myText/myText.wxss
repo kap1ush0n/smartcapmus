@@ -1,1 +1,43 @@
 /* pages/myText/myText.wxss */
+
+.toping{
+  width: 100%;
+  height: 280rpx;
+  text-align: center;
+  position: relative;
+}
+.toping .box{
+  width: 100%;
+  height: 100%;
+  position: relative;
+}
+.toping .box>image{
+  width: 90%;
+  height: 250rpx;
+  border-radius: 30rpx;
+}
+.toping .fonting{
+  position: absolute;
+  top:40rpx;
+  left:70rpx;
+  text-align: left;
+  height: 100%;
+  font-size: 20rpx;
+  color:white;
+}
+.toping .fonting>h2{
+  font-size: 32rpx;
+  font-weight: 900;
+}
+.toping .fonting>text{
+  font-size: 26rpx;
+  line-height: 45rpx;
+}
+.toping .buton{
+  width: 100rpx;
+  height: 50rpx;
+  text-align: center;
+  line-height: 50rpx;
+  border:2rpx solid white;
+  border-radius: 25rpx;
+}
