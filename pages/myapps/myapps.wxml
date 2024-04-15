@@ -1,2 +1,16 @@
 <!--pages/myapps/myapps.wxml-->
-<text>pages/myapps/myapps.wxml</text>
+<!-- <text>pages/myapps/myapps.wxml</text> -->
+
+<!-- 搜素栏 -->
+<view class="ying">
+  <view class="kuang">
+    <view>应用</view>
+    <view class="kk"><image src="../../imgs/search.png"></image>
+    <view class="text">搜索应用 消息新闻</view>
+    </view>
+    <view class="ttu">
+      <view class="ttu1"><image src="../../imgs/scode.png"></image>  </view>
+      <view class="ttu2"><image src="../../imgs/mess.png"></image></view>
+  </view>
+  </view>
+</view>
