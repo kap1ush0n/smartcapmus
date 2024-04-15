@@ -31,3 +31,30 @@
         <view>学术动态</view>
   </view>
 </view>
+
+<view class="about">
+  <view class="new">
+  <view>关于加强新生入学后通知校园管理规范的通知</view>
+  <view>校园新闻网</view>
+  </view>
+  <!-- 图 -->
+  <view>
+    <image src="../../imgs/item1.png"></image>
+  </view>
+  <!-- 二 -->
+  <view class="new">
+  <view>关于开展2023新生入学教育系列培训课程的指导意见</view>
+  <view>信息化管理中心</view>
+  </view>
+  <view>
+    <image src="../../imgs/item2.png"/>
+  </view>
+  <!-- 三 -->
+  <view class="new">
+  <view>关于加强新生入学后校园安全管理条例实行的通知</view>
+  <view>教务处</view>
+  </view>
+  <view>
+    <image src="../../imgs/item1.png"></image>
+  </view>
+</view>

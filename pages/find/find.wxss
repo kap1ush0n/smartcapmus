@@ -131,3 +131,33 @@ left: 80rpx;
   .twos{
   margin-right: 25rpx;
   }
+
+  .about{
+    width: 90%;
+    margin: auto;
+    justify-content: space-between;
+    background-color: white;
+    margin-top: 20rpx;
+    position: relative;
+    height: 500rpx;
+    /* background-color:red; */
+    }
+    .about>view>image{
+    width: 150rpx;
+    height: 150rpx;
+    margin-left: 550rpx;
+    margin-top: 30rpx;
+    }
+    .new{
+    position: absolute;
+    width: 80%;
+    }
+    .new>view:first-child{
+    font-size: 32rpx;
+    font-weight: 900;
+    }
+    .new>view:last-child{
+    font-size: 28rpx;
+    color: #9e9e9e;
+    margin-top: 10rpx;
+    }
