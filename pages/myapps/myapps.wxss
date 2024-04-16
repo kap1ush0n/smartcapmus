@@ -121,3 +121,128 @@ left: 80rpx;
     margin-left: -145px;
     font-size: 8px;
   }
+
+  /* 推荐 */
+.tuijian1{
+  width: 90%;
+  margin: auto;
+  margin-top:40rpx ;
+  font-size:40rpx ;
+  font-weight: 900;
+}
+.tuijian2{
+  width: 90%;
+  margin: auto;
+  margin-top: 20rpx;
+  font-size: 32rpx;
+  color:#828282 ;
+}
+/*圆  */
+.yuan{
+  width: 90%;
+  margin: auto;
+  height: 400rpx;
+  /* background-color:purple; */
+  margin-top: 20rpx;
+  display: flex;
+  justify-content: space-between;
+
+}
+.yuan>view{
+  width: 25%;
+margin-top: 70rpx;
+/* background-color: blue; */
+height: 350rpx;
+
+}
+.yuan>view>view:first-child{
+  margin: auto;
+  height: 90rpx;
+  width: 100rpx;
+  /* background-color:red; */
+  position: relative;
+  border-radius: 50%;
+}
+.yuan>view>view:last-child{
+  margin: auto;
+  height: 90rpx;
+  width: 100rpx;
+  /* background-color:palegreen; */
+  position: relative;
+  border-radius: 50%;
+}
+.greens{
+  background: linear-gradient(to right,#27e697f4,#12b992)
+}
+.oranges{
+  background: linear-gradient(to right,#fcb629,#fe8f11)
+  }
+  .blues{
+    background: linear-gradient(to right,#1aadef,#339ae1)
+    }
+    .reds{
+      background: linear-gradient(to right,#d77479,#bf362b)
+      }
+.yuan>view>view:first-child>image{
+  width: 50rpx;
+  height: 50rpx;
+  position: absolute;
+  top:0;
+  bottom: 0;
+  right: 0;
+  left: 0;
+  margin: auto;
+}
+.yuan>view>view:last-child>image{
+  width: 50rpx;
+  height: 50rpx;
+  position: absolute;
+  top:0;
+  bottom: 0;
+  right: 0;
+  left: 0;
+  margin: auto;
+}
+.yuanzi1{
+  margin-top: 20rpx;
+  line-height: 45rpx;
+  height: 150rpx;
+  font-size: 19rpx;
+  color: #a9a9a9;
+  text-align: center;
+  /* background-color: orange; */
+}
+.yuanzi1>view:first-child{
+color: black;
+font-size: 30rpx;
+}
+
+/* 测 */
+.eye{
+  width: 100rpx;
+  height: 40rpx;
+  line-height: 40rpx;
+  font-size: 20rpx;
+ border: 1rpx solid #f5f5f5;
+  text-align: center;
+  border-radius: 35%;
+  background-color: #f3f3f3;
+  margin-left: 25rpx;
+  display: flex;
+   /* background-color: #d7d7d7; */
+   position: relative;
+}
+.eye>image{
+position: absolute;
+width: 100rpx;
+height: 30rpx;
+line-height: 30rpx;
+right: 25rpx;
+}
+.eye>view{
+  position: absolute;
+  width: 100rpx;
+height: 50rpx;
+font-size: 20rpx;
+left: 15rpx;
+}
