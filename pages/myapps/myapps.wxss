@@ -278,3 +278,42 @@ margin-left: 30rpx;
 .twos{
   margin-right: 25rpx;
 }
+
+/* 最新上线 */
+.zui{
+  width: 90%;
+  margin: auto;
+
+}
+/* 小程序 */
+.barlist{
+  width: 90%;
+  display: flex;
+  margin: auto;
+  justify-content: space-between;
+  margin-top: 20rpx;
+  margin-bottom: 20rpx;
+}
+.barlist>view>view:first-child{
+  width: 90rpx;
+  height: 90rpx;
+  border-radius: 50%;
+  margin: auto;
+  position: relative;
+  margin-bottom: 20rpx;
+}
+
+.barlist>view>view:first-child>image{
+  width: 50rpx;
+  height: 50rpx;
+  position: absolute;
+  top:0;
+  bottom: 0;
+  right: 0;
+  left: 0;
+  margin: auto;
+}
+.barlist>view>view:last-child{
+font-size: 28rpx;
+text-align: center;
+}
