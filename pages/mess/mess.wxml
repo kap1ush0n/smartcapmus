@@ -14,3 +14,41 @@
   </view>
   </view>
 </view>
+
+<!-- top -->
+<view class="yuan">
+<view>
+  <view class="red"><image src="../../imgs/messageimgs/1.png"></image></view>
+    <view class="yuanzi1">
+      <view>待办</view>
+  </view>
+</view>
+<!-- 第二 -->
+<view>
+  <view class="blue"><image src="../../imgs/messageimgs/2.png"></image></view>
+    <view class="yuanzi1">
+      <view>待阅</view>
+  </view>
+</view>
+  <!-- 三 -->
+  <view>
+  <view class="yellow"><image src="../../imgs/messageimgs/3.png"></image></view>
+    <view class="yuanzi1">
+      <view>已办</view>
+  </view>
+</view>
+<!-- 四 -->
+<view>
+  <view class="pur"><image src="../../imgs/messageimgs/4.png"></image></view>
+    <view class="yuanzi1">
+      <view>已阅</view>
+  </view>
+</view>
+<!--五  -->
+<view>
+    <view class="green"><image src="../../imgs/messageimgs/5.png"></image></view>
+      <view class="yuanzi1">
+        <view>系统</view>
+    </view>
+  </view>
+  </view>
