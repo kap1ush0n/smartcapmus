@@ -159,3 +159,37 @@ height: 350rpx;
 color: black;
 font-size: 30rpx;
 }
+/* 图+字 */
+.one{
+  width: 90%;
+  margin: auto;
+  margin-top: 30rpx;
+}
+
+.two{
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: 20rpx;
+}
+.two>view>image{
+  width: 80rpx;
+  height: 80rpx;
+  /* background-color: red; */
+}
+.zi{
+  font-size: 35rpx;
+  margin-left: 50rpx;
+  width: 700rpx;
+}
+.zi>view:last-child{
+font-size: 21rpx;
+color:gray;
+}
+
+.three{
+  color: gray;
+  font-size: 30rpx;
+  width: 200rpx;
+  line-height: 100rpx;
+  margin-left: 50rpx;
+}
