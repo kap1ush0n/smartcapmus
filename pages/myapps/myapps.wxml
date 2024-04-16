@@ -50,3 +50,56 @@
     </view>
   </view>
 </view>
+
+<!-- 推荐应用 -->
+<view class="tuijian1">推荐应用</view>
+<view class="tuijian2">根据您最近浏览和办理应用为您推荐</view>
+<!--四个圆  -->
+<view class="yuan">
+  <view>
+    <view class="greens"><image src="../../imgs/score.svg"></image></view>
+      <view class="yuanzi1">
+        <view>成绩查询</view>
+        <view>查询当前及历史成绩</view>
+        <view class="eye"> <image src="../../imgs/eyes.svg"></image>
+        <view>200+</view>
+      </view>
+    </view>
+    <view><image src="../../imgs/add.svg"></image></view>
+  </view>
+  <!-- 第二 -->
+  <view>
+    <view class="oranges"><image src="../../imgs/books.svg"></image></view>
+      <view class="yuanzi1">
+        <view>图书借阅</view>
+        <view>查询图书借阅记录</view>
+        <view class="eye"> <image src="../../imgs/eyes.svg"></image>
+        <view>100+</view>
+      </view>
+    </view>
+    <view><image src="../../imgs/add.svg"></image></view>
+  </view>
+  <!-- 三 -->
+  <view>
+    <view class="blues"><image src="../../imgs/order.svg"></image></view>
+      <view class="yuanzi1">
+        <view>网上查询</view>
+        <view>自助网上缴费</view>
+        <view class="eye"> <image src="../../imgs/eyes.svg"></image>
+        <view>150+</view>
+      </view>
+    </view>
+    <view><image src="../../imgs/add.svg"></image></view>
+  </view>
+  <view>
+    <view class="reds"><image src="../../imgs/danger.svg"></image></view>
+      <view class="yuanzi1">
+        <view>学院预警</view>
+        <view>查看学院预警信息</view>
+        <view class="eye"> <image src="../../imgs/eyes.svg"></image>
+        <view>100+</view>
+      </view>
+    </view>
+    <view><image src="../../imgs/add.svg"></image></view>
+  </view>
+</view>
