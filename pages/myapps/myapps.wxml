@@ -103,3 +103,13 @@
     <view><image src="../../imgs/add.svg"></image></view>
   </view>
 </view>
+
+<!-- 最新上线 -->
+<view class="gao">
+    <view class="ones">
+      <view>最新上线</view>
+        <view class="twos">电子商务</view>
+        <view>教学服务</view>
+        <view>科研服务</view>
+  </view>
+</view>
