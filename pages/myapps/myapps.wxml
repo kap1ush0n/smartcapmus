@@ -14,3 +14,39 @@
   </view>
   </view>
 </view>
+
+<view class="top">
+  <view class="top1">
+    <view class="top0v">
+      <image src="../../imgs/bgright.svg" />
+    </view>
+    <view class="top1v">
+      <image src="../../imgs/appgirl.png" />
+    </view>
+    <view class="top2v">
+      <view class="toptxt1">
+        待办事项
+      </view>
+      <view class="toptxt2">
+        我收藏的应用
+      </view>
+    </view>
+  </view>
+
+  <view class="top1">
+    <view class="top0v2">
+      <image src="../../imgs/bgleft.svg" />
+    </view>
+    <view class="top1v">
+      <image src="../../imgs/appboy.png" class="appboy"/>
+    </view>
+    <view class="top2v">
+      <view class="toptxt1">
+        待办事项
+      </view>
+      <view class="toptxt2">
+        办事指南总汇
+      </view>
+    </view>
+  </view>
+</view>
