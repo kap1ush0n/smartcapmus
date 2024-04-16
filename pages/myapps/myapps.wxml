@@ -113,3 +113,33 @@
         <view>科研服务</view>
   </view>
 </view>
+
+<!-- 最新上线小程序 -->
+<view class="zui">最新上线</view>
+<!-- 小程序 -->
+<view class="barlist">
+  <view>
+    <view >
+      <image src="/imgs/appimgs/school.png" mode="img"></image>
+    </view>
+    <view>学校概况</view>
+  </view>
+  <view>
+    <view>
+      <image src="../../imgs/appimgs/map.png"></image>
+    </view>
+  <view>获奖成果</view>
+  </view>
+  <view>
+    <view>
+      <image src="/imgs/appimgs/money.png"></image>
+    </view>
+    <view>我的消费</view>
+  </view>
+  <view>
+    <view>
+      <image src="/imgs/appimgs/email.png"></image>
+    </view>
+    <view>电子邮件</view>
+  </view>
+</view>
