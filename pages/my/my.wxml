@@ -62,3 +62,52 @@
     </view>
   </view>
 </view>
+
+<!-- 推荐应用 -->
+<view class="tui">
+  推荐应用
+</view>
+<view class="di">
+  <view class="bottom">
+    <view class="di1v">
+      <image src="../../imgs/book.svg" />
+    </view>
+    <view class="txt">
+      教职工请假申请
+      <view class="text">
+        工作部门:系统维护 请假申请人:xxx
+      </view>
+    </view>
+    <view class="tian">
+      昨天
+    </view>
+  </view>
+  <view class="bottom">
+    <view class="di1v" id="di2v">
+      <image src="../../imgs/messageimgs/4.png" />
+    </view>
+    <view class="txt">
+      教职工请假申请
+      <view class="text">
+        工作部门:系统维护 请假申请人:xxx
+      </view>
+    </view>
+    <view class="tian">
+      昨天
+    </view>
+  </view>
+  <view class="bottom">
+    <view class="di1v" id="di3v">
+      <image src="../../imgs/messageimgs/5.png" />
+    </view>
+    <view class="txt">
+      教职工请假申请
+      <view class="text">
+        工作部门:系统维护 请假申请人:xxx
+      </view>
+    </view>
+    <view class="tian">
+      昨天
+    </view>
+  </view>
+</view>
