@@ -1,2 +1,28 @@
 <!--pages/my/my.wxml-->
-<text>pages/my/my.wxml</text>
+<!-- <text>pages/my/my.wxml</text> -->
+
+<!-- 顶部 -->
+<view class="topt">
+  <view class="topt1v">
+    <view>
+      <image src="../../imgs/myimgs/set.png"/>
+    </view>
+    <view class="my">
+      我的
+    </view>
+    <view>
+      <image src="../../imgs/myimgs/info.png"/>
+    </view>
+  </view>
+  <view class="topt2v">
+    <view class="user">
+      宋歌
+      <view>
+      信息化管理中心  
+      </view>
+    </view>
+    <view>
+      <image src="../../imgs/myimgs/avater.png"/>
+    </view>
+  </view>
+</view>
