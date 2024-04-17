@@ -153,3 +153,44 @@
     网上审批
   </view>
 </view>
+<!-- 我的信息 -->
+<view class="myw">
+  我的信息
+</view>
+<!-- 功能 -->
+<view class="gn">
+  <view>
+    <image src="/imgs/appimgs/school.png"/>
+    教务系统
+  </view>
+  <view>
+    <image src="/imgs/appimgs/money.png"/>
+    学费缴纳
+  </view>
+  <view>
+    <image src="/imgs/appimgs/map.png"/>
+    星标课程
+  </view>
+  <view>
+    <image src="/imgs/appimgs/email.png"/>
+    学生科研
+  </view>
+</view>
+<view class="gn">
+  <view>
+    <image src="/imgs/appimgs/libray.png"/>
+    在线选课
+  </view>
+  <view>
+    <image src="/imgs/appimgs/jiangbei.png"/>
+    专业设置
+  </view>
+  <view>
+    <image src="/imgs/appimgs/red.png"/>
+    学霸名单
+  </view>
+  <view>
+    <image src="/imgs/appimgs/shenpi.png"/>
+    学生信息
+  </view>
+</view>

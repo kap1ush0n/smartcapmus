@@ -151,3 +151,25 @@
 .bottom #di3v{
   background-color: rgba(58,209,174,1);
 }
+/* 我的收藏 */
+.myw{
+  margin: 10px;
+  font-size: 14px;
+}
+/* 功能 */
+.gn{
+  margin-left: -2px;
+  display: flex;
+  width: 312px;
+}
+.gn view{
+  width: 48px;
+  height:50px;
+  text-align: center;
+  font-size: 12px;
+  margin: 15px;
+}
+.gn view image{
+  height: 40px;
+  width: 40px;
+}
