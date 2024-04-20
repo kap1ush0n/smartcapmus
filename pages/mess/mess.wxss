@@ -90,7 +90,7 @@ left: 80rpx;
 }
 .yuan>view{
   width: 25%;
-margin-top: 70rpx;
+margin-top: 10rpx;
 /* background-color: blue; */
 height: 350rpx;
 
@@ -169,7 +169,7 @@ font-size: 40rpx;
 .two{
   display: flex;
   justify-content: space-between;
-  margin-bottom: 20rpx;
+  margin-bottom: 50rpx;
 }
 .two>view>image{
   width: 80rpx;
@@ -182,13 +182,13 @@ font-size: 40rpx;
   width: 700rpx;
 }
 .zi>view:last-child{
-font-size: 35rpx;
+font-size: 21rpx;
 color:gray;
 }
 
 .three{
   color: gray;
-  font-size: 35rpx;
+  font-size: 30rpx;
   width: 200rpx;
   line-height: 100rpx;
   margin-left: 50rpx;
