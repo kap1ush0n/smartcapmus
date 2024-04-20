@@ -14,7 +14,7 @@
       <image src="../../imgs/myimgs/info.png"/>
     </view>
   </view>
-  <view class="topt2v">
+  <view class="topt2v" bind:tap="navigateToLoginPage">
     <view class="user">
       宋歌
       <view>
@@ -70,7 +70,7 @@
 <view class="di">
   <view class="bottom">
     <view class="di1v">
-      <image src="../../imgs/book.svg" />
+      <image src="../../imgs/books.svg" />
     </view>
     <view class="txt">
       教职工请假申请

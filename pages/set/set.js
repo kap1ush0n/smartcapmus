@@ -1,4 +1,4 @@
-// pages/my/my.js
+// pages/set/set.js
 Page({
 
   /**
@@ -62,15 +62,5 @@ Page({
    */
   onShareAppMessage() {
 
-  },
-  navigateToSetPage:function(){
-    wx.navigateTo({
-      url: '/pages/set/set',
-    })
-  },
-  navigateToLoginPage:function(){
-    wx.navigateTo({
-      url: '/pages/Login/Login',
-    })
   }
 })

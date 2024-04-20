@@ -1,4 +1,4 @@
-// pages/my/my.js
+// pages/Login/Login.js
 Page({
 
   /**
@@ -63,14 +63,19 @@ Page({
   onShareAppMessage() {
 
   },
-  navigateToSetPage:function(){
+  navigateToBrushPage: function(){
     wx.navigateTo({
-      url: '/pages/set/set',
+      url: '/pages/brush/brush',
     })
   },
-  navigateToLoginPage:function(){
+  navigateToClickPage: function(){
     wx.navigateTo({
-      url: '/pages/Login/Login',
+      url: '/pages/click/click',
+    })
+  },
+  navigateToMyPage: function(){
+    wx.navigateBack({
+      delta:1
     })
   }
 })
