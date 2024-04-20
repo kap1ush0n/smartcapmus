@@ -1,34 +1,34 @@
 /* pages/my/my.wxss */
 .topt {
-  height: 140px;
+  height: 180px;
   background: linear-gradient(180deg, rgba(58, 209, 174, 1) 0%, rgba(255, 255, 255, 0) 100%);
 }
 
 .topt .topt1v {
   display: flex;
-  margin-left: 10px;
+  margin-left: 20px;
 }
 
 .topt .topt1v .my {
-  margin-top: 20px;
-  width: 255px;
+  margin-top: 30px;
+  width: 285px;
   text-align: center;
   font-weight: bold;
 }
 
 .topt .topt1v image {
-  margin-top: 20px;
+  margin-top: 30px;
   width: 20px;
   height: 20px;
 }
 
 .topt .topt2v {
-  margin-top: 40px;
+  margin-top: 50px;
   display: flex;
 }
 
 .topt .topt2v .user {
-  line-height: 28px;
+  line-height: 30px;
   font-size: 30px;
   text-align: left;
   margin-left: 10px;
@@ -53,13 +53,13 @@
   width: 334px;
   height: 85px;
   overflow: hidden;
-  color: white;
+  color: rgb(110, 49, 49);
   display: flex;
 }
 
 .top view {
   display: flex;
-  width: 145px;
+  width: 150px;
   height: 85px;
 }
 
@@ -73,7 +73,7 @@
 
 .top view view image {
   width: 162px;
-  height: 85px;
+  height: 100px;
 }
 
 .top view .top1v image {
@@ -104,12 +104,12 @@
 /* 推荐应用 */
 .tui {
   margin: 10px;
-  font-size: 26px;
+  font-size: 15px;
 }
 
 .bottom {
   display: flex;
-  font-size: 23px;
+  font-size: 20px;
 }
 
 .bottom view {
@@ -153,14 +153,13 @@
 }
 /* 我的收藏 */
 .myw{
-  margin: 10px;
+  margin: 20px;
   font-size: 20px;
 }
 /* 功能 */
 .gn{
-  margin-left: -2px;
   display: flex;
-  width: 312px;
+  width: 320px;
 }
 .gn view{
   width: 48px;
@@ -171,5 +170,5 @@
 }
 .gn view image{
   height: 40px;
-  width: 40px;
+  width: 50px;
 }
