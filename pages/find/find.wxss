@@ -23,7 +23,7 @@
   line-height: 50rpx;
   margin-top: 20rpx;
   font-size: 30rpx;
- border: 1rpx solid #f5f5f5;
+  border: 1rpx solid #f5f5f5;
   text-align: center;
   border-radius: 20rpx;
   background-color: #ffffff;
@@ -139,7 +139,6 @@ left: 100rpx;
     margin-top: 50rpx;
     position: relative;
     height: 600rpx;
-    /* background-color:red; */
     }
     .about>view>image{
     width: 150rpx;

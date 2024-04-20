@@ -1,7 +1,7 @@
 /* pages/my/my.wxss */
 .topt {
   height: 180px;
-  background: linear-gradient(180deg, rgba(58, 209, 174, 1) 0%, rgba(255, 255, 255, 0) 100%);
+  background: linear-gradient(180deg, rgb(44, 141, 118) 0%, rgba(255, 255, 255, 0) 100%);
 }
 
 .topt .topt1v {
@@ -53,7 +53,7 @@
   width: 334px;
   height: 85px;
   overflow: hidden;
-  color: rgb(110, 49, 49);
+  color: rgb(117, 23, 23);
   display: flex;
 }
 
@@ -142,14 +142,14 @@
   width: 44px;
   height: 44px;
   text-align: center;
-  background-color: rgba(255, 191, 107, 1);
+  background-color: rgb(199, 146, 77);
   border-radius: 50%;
 }
 .bottom #di2v{
-  background-color: rgba(136,103,245,1);
+  background-color: rgb(92, 60, 196);
 }
 .bottom #di3v{
-  background-color: rgba(58,209,174,1);
+  background-color: rgb(24, 153, 123);
 }
 /* 我的收藏 */
 .myw{
