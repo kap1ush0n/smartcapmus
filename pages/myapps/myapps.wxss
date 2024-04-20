@@ -150,7 +150,6 @@ left: 100rpx;
 .yuan>view{
   width: 25%;
 margin-top: 20rpx;
-/* background-color: blue; */
 height: 350rpx;
 
 }
@@ -158,7 +157,6 @@ height: 350rpx;
   margin: auto;
   height: 90rpx;
   width: 100rpx;
-  /* background-color:red; */
   position: relative;
   border-radius: 50%;
 }
@@ -166,21 +164,20 @@ height: 350rpx;
   margin: auto;
   height: 90rpx;
   width: 100rpx;
-  /* background-color:palegreen; */
   position: relative;
   border-radius: 50%;
 }
 .greens{
-  background: linear-gradient(to right,#27e697f4,#12b992)
+  background: linear-gradient(to right,#178b5bf4,#047e61)
 }
 .oranges{
-  background: linear-gradient(to right,#fcb629,#fe8f11)
+  background: linear-gradient(to right,#b18328,#854a06)
   }
   .blues{
-    background: linear-gradient(to right,#1aadef,#339ae1)
+    background: linear-gradient(to right,#288ab8,#065f9b)
     }
     .reds{
-      background: linear-gradient(to right,#d77479,#bf362b)
+      background: linear-gradient(to right,#8b4145,#7a0a02)
       }
 .yuan>view>view:first-child>image{
   width: 50rpx;
