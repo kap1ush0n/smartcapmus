@@ -67,19 +67,19 @@
   height: 45rpx;
 }
 .barlist .yel{
-  background-color: #f6b059;
+  background-color: #b4701c;
 }
 .barlist .pul{
-  background-color: #8f6aff;
+  background-color: #1f0b5a;
 }
 .barlist .reed{
-  background-color:#ec1e71 ;
+  background-color:#a7104c ;
 }
 .barlist .gre{
-  background-color: #03e391;
+  background-color: #078f5d;
 } 
 .barlist .blu{
-  background-color: #1e9dff;
+  background-color: #025ca0;
 }
 
 .tinglist{
@@ -95,10 +95,10 @@
   border-radius: 25rpx;
 }
 .tinglist>view:first-child{
-  background: linear-gradient(to right,#feb27a,#ff8260);
+  background: linear-gradient(to right,#c27f4f,#bd4d2e);
 }
 .tinglist>view:last-child{
-  background:linear-gradient(to right,#94f8da,#6ad2e3);
+  background:linear-gradient(to right,#67d3b2,#2592a3);
 }
 .tinglist>view:first-child>image{
   width: 200rpx;
@@ -146,7 +146,7 @@
   margin-right: 20rpx;
   width: 50rpx;
   height: 50rpx;
-  background-color: #01ad7c;
+  background-color: #16d49e;
   border-radius: 50%;
   display: flex;
   justify-content: center;
@@ -197,7 +197,7 @@
   width: 140rpx;
   font-size: 30rpx;
   height: 50rpx;
-  background: linear-gradient(to right, #3fbef5,#87e0dd);
+  background: linear-gradient(to right, #1c80aa,#03726e);
   color: #f3f3f3;
   border-radius: 20rpx;
   text-align: center;
@@ -217,7 +217,7 @@
   font-weight: 555;
 }
 .app>view:last-child{
-  color: rgb(121, 121, 121);
+  color: rgb(199, 199, 199);
   font-size: 25rpx;
 }
 .study{
