@@ -29,7 +29,7 @@
 
 .topt .topt2v .user {
   line-height: 28px;
-  font-size: 20px;
+  font-size: 30px;
   text-align: left;
   margin-left: 10px;
   width: 250px;
@@ -37,7 +37,7 @@
 
 .topt .topt2v .user view {
   color: rgb(121, 121, 121);
-  font-size: 12px;
+  font-size: 17px;
 }
 
 .topt .topt2v image {
@@ -91,25 +91,25 @@
 .top .top2v {
   margin-left: -60px;
   margin-top: 25px;
-  font-size: 12px;
+  font-size: 10px;
 }
 
 .top .top2v .toptxt2 {
   width: 140px;
   margin-top: 15px;
   margin-left: -145px;
-  font-size: 8px;
+  font-size: 5px;
 }
 
 /* 推荐应用 */
 .tui {
   margin: 10px;
-  font-size: 16px;
+  font-size: 26px;
 }
 
 .bottom {
   display: flex;
-  font-size: 13px;
+  font-size: 23px;
 }
 
 .bottom view {
@@ -129,7 +129,7 @@
 .bottom view .text {
   color: rgba(154, 154, 154, 1);
   margin-left: -1px;
-  font-size: 11px;
+  font-size: 15px;
 }
 
 .bottom .tian {
@@ -154,7 +154,7 @@
 /* 我的收藏 */
 .myw{
   margin: 10px;
-  font-size: 14px;
+  font-size: 20px;
 }
 /* 功能 */
 .gn{
