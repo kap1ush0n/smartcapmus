@@ -11,7 +11,7 @@
   position: relative;
 }
 .kuang>view:first-child{
-  font-size: 50rpx;
+  font-size: 60rpx;
   position: absolute;
   font-weight: bold;
 }
@@ -43,7 +43,7 @@ left: 25rpx;
 .kk>view{
  position: absolute;
 width: 200rpx;
-font-size: 25rpx;
+font-size: 20rpx;
 left: 80rpx;
 }
 .ttu{
@@ -112,14 +112,14 @@ left: 80rpx;
   .top .top2v {
     margin-left: -60px;
     margin-top: 25px;
-    font-size: 12px;
+    font-size: 10px;
   }
   
   .top .top2v .toptxt2 {
     width: 140px;
     margin-top: 15px;
     margin-left: -145px;
-    font-size: 8px;
+    font-size: 5px;
   }
 
   /* 推荐 */
@@ -127,14 +127,14 @@ left: 80rpx;
   width: 90%;
   margin: auto;
   margin-top:40rpx ;
-  font-size:40rpx ;
+  font-size:50rpx ;
   font-weight: 900;
 }
 .tuijian2{
   width: 90%;
   margin: auto;
   margin-top: 20rpx;
-  font-size: 32rpx;
+  font-size: 35rpx;
   color:#828282 ;
 }
 /*圆  */
@@ -207,14 +207,14 @@ height: 350rpx;
   margin-top: 20rpx;
   line-height: 45rpx;
   height: 150rpx;
-  font-size: 19rpx;
+  font-size: 24rpx;
   color: #a9a9a9;
   text-align: center;
   /* background-color: orange; */
 }
 .yuanzi1>view:first-child{
 color: black;
-font-size: 30rpx;
+font-size: 35rpx;
 }
 
 /* 测 */
@@ -222,7 +222,7 @@ font-size: 30rpx;
   width: 100rpx;
   height: 40rpx;
   line-height: 40rpx;
-  font-size: 20rpx;
+  font-size: 30rpx;
  border: 1rpx solid #f5f5f5;
   text-align: center;
   border-radius: 35%;
@@ -243,7 +243,7 @@ right: 25rpx;
   position: absolute;
   width: 100rpx;
 height: 50rpx;
-font-size: 20rpx;
+font-size: 30rpx;
 left: 15rpx;
 }
 
@@ -259,19 +259,19 @@ left: 15rpx;
 }
 
 .ones{
-  font-size: 30rpx;
+  font-size: 35rpx;
   margin-top: 20rpx;
   display: flex;
  
 }
 .ones>view:first-child{
   font-weight: 900;
-  font-size: 40rpx;
+  font-size: 50rpx;
   line-height: 40rpx;
   margin-right:25rpx ;
 }
 .ones>view:last-child{
-font-size: 32rpx;
+font-size: 35rpx;
 margin-left: 30rpx;
 
 }
@@ -314,6 +314,6 @@ margin-left: 30rpx;
   margin: auto;
 }
 .barlist>view>view:last-child{
-font-size: 28rpx;
+font-size: 35rpx;
 text-align: center;
 }
