@@ -91,7 +91,6 @@ left: 80rpx;
 .yuan>view{
   width: 25%;
 margin-top: 10rpx;
-/* background-color: blue; */
 height: 350rpx;
 
 }
@@ -99,7 +98,6 @@ height: 350rpx;
   margin: auto;
   height: 90rpx;
   width: 100rpx;
-  /* background-color:red; */
   position: relative;
   border-radius: 50%;
 }
@@ -107,24 +105,23 @@ height: 350rpx;
   margin: auto;
   height: 90rpx;
   width: 100rpx;
-  /* background-color:palegreen; */
   position: relative;
   border-radius: 50%;
 }
 .red{
-  background: linear-gradient(to right,#27e697f4,#12b992)
+  background: linear-gradient(to right,#2aac75f4,#068f6f)
 }
 .blue{
-  background: linear-gradient(to right,#fcb629,#fe8f11)
+  background: linear-gradient(to right,#997224,#915108)
   }
   .yellow{
-    background: linear-gradient(to right,#1aadef,#339ae1)
+    background: linear-gradient(to right,#217ea8,#03568d)
     }
     .pur{
-      background: linear-gradient(to right,#d77479,#bf362b)
+      background: linear-gradient(to right,#85363a,#830b02)
       }
       .green{
-        background: linear-gradient(to right,#d77479,#bf362b)
+        background: linear-gradient(to right,#924649,#920f06)
         }
 .yuan>view>view:first-child>image{
   width: 50rpx;
@@ -153,7 +150,6 @@ height: 350rpx;
   font-size: 25rpx;
   color: #a9a9a9;
   text-align: center;
-  /* background-color: orange; */
 }
 .yuanzi1>view:first-child{
 color: black;
@@ -174,7 +170,6 @@ font-size: 40rpx;
 .two>view>image{
   width: 80rpx;
   height: 80rpx;
-  /* background-color: red; */
 }
 .zi{
   font-size: 40rpx;
