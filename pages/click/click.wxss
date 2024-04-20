@@ -50,7 +50,7 @@
 
 /* 服务条款 */
 .box1{
-  margin-top: 400rpx;
+  margin-top: 200rpx;
   width: 700rpx;
 }
 .box1>view:nth-child(1){
