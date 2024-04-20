@@ -12,7 +12,7 @@
   position: relative;
 }
 .kuang>view:first-child{
-  font-size: 50rpx;
+  font-size: 70rpx;
   position: absolute;
   font-weight: bold;
 }
@@ -24,7 +24,7 @@
   height: 50rpx;
   line-height: 40rpx;
   margin-top: 20rpx;
-  font-size: 20rpx;
+  font-size: 30rpx;
  border: 1rpx solid #f5f5f5;
   text-align: center;
   border-radius: 15rpx;
@@ -52,7 +52,7 @@ left: 80rpx;
   height: 50rpx;
   line-height: 40rpx;
   margin-top: 20rpx;
-  font-size: 20rpx;
+  font-size: 30rpx;
  /* border: 1rpx solid #f5f5f5; */
   text-align: center;
   border-radius: 15rpx;
@@ -150,14 +150,14 @@ height: 350rpx;
   margin-top: 20rpx;
   line-height: 45rpx;
   height: 150rpx;
-  font-size: 19rpx;
+  font-size: 25rpx;
   color: #a9a9a9;
   text-align: center;
   /* background-color: orange; */
 }
 .yuanzi1>view:first-child{
 color: black;
-font-size: 30rpx;
+font-size: 40rpx;
 }
 /* 图+字 */
 .one{
@@ -177,18 +177,18 @@ font-size: 30rpx;
   /* background-color: red; */
 }
 .zi{
-  font-size: 35rpx;
+  font-size: 40rpx;
   margin-left: 50rpx;
   width: 700rpx;
 }
 .zi>view:last-child{
-font-size: 21rpx;
+font-size: 35rpx;
 color:gray;
 }
 
 .three{
   color: gray;
-  font-size: 30rpx;
+  font-size: 35rpx;
   width: 200rpx;
   line-height: 100rpx;
   margin-left: 50rpx;
